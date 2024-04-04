@@ -23,5 +23,8 @@ function shadowM2(options) {
 
 }
 
+// use when you want to test
+// module.exports = shadowM2
 
-module.exports = shadowM2
+// use when you want to use
+module.exports.shfadowM2 = shadowM2
