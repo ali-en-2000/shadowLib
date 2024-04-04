@@ -27,4 +27,4 @@ function shadowM2(options) {
 // module.exports = shadowM2
 
 // use when you want to use
-module.exports.shfadowM2 = shadowM2
+module.exports.shadowM2 = shadowM2
