@@ -1,10 +1,10 @@
 {
   "name": "shadowmr2",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "awesome shadow lib",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -14,5 +14,9 @@
     "shadowM2"
   ],
   "author": "Mr2",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "jsdom": "^24.0.0"
+  }
 }

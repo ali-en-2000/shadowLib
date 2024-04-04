@@ -16,7 +16,6 @@ function shadowM2(options) {
     if (options.padding) {
         image.style.margin = '1em'
         image.style.padding = '1em'
-        image.style.border = '1px solid black'
         
     }
   })
@@ -25,4 +24,4 @@ function shadowM2(options) {
 }
 
 
-module.exports.shadowM2 = shadowM2
+module.exports = shadowM2
