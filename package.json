@@ -1,6 +1,6 @@
 {
   "name": "shadowmr2",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "awesome shadow lib",
   "main": "index.js",
   "scripts": {
