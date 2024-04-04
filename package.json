@@ -1,0 +1,18 @@
+{
+  "name": "shadowmr2",
+  "version": "1.0.0",
+  "description": "awesome shadow lib",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/ali-en-2000/shadowLib.git)"
+  },
+  "keywords": [
+    "shadowM2"
+  ],
+  "author": "Mr2",
+  "license": "ISC"
+}
